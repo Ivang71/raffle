@@ -1,0 +1,10 @@
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.gallery .image {
+    max-width: 30%;
+    height: auto;
+}

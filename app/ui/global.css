@@ -1,0 +1,9 @@
+/* ::selection {
+    color: black;
+    background: #31dac3;
+} */
+
+body {
+    color: rgb(220, 220, 220);
+    background: black;
+}
